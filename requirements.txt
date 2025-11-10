@@ -1,6 +1,7 @@
 streamlit
 ultralytics
-opencv-python-headless
+libgl1
+opencv-python
 reportlab
 Pillow
 
