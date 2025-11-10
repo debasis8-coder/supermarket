@@ -19,7 +19,7 @@ from PIL import Image
 st.set_page_config(page_title="🛒 Smart Supermarket Billing", layout='wide')
 
 # Background image
-bg_path = "/supermarket/supermarket_bg.jpeg"
+bg_path = "supermarket_bg.jpeg"
 with open(bg_path, "rb") as f:
     bg_base64 = base64.b64encode(f.read()).decode()
 
